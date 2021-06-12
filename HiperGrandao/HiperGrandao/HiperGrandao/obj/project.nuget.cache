@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvilnQZKZxun4cfgGh+P7qAMjrvt40wNhzPPnBijEukanMFN6PezdvLDlp4Rfkc36PwSU+ub3TpXsq+Jl4+mLA==",
+  "success": true,
+  "projectFilePath": "C:\\HiperGrandao\\HiperGrandao\\HiperGrandao\\HiperGrandao\\HiperGrandao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
